@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std ;
-
+// H/W _ Week7 _ 40113841054003 Reza Abedi
 int main() {
 	int num1 , num2 , z , gcd ;
 	
