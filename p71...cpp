@@ -1,4 +1,6 @@
 #include <iostream>
+// H/W _ Week7 _ 40113841054003 Reza Abedi
+
 using namespace std ;
 int main() {
 
